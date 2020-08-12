@@ -1,0 +1,12 @@
+C:\Users\CEM\source\repos\MovieAppBackEnd\MovieAppBackEnd.Entities\bin\Debug\netcoreapp3.1\MovieAppBackEnd.Entities.deps.json
+C:\Users\CEM\source\repos\MovieAppBackEnd\MovieAppBackEnd.Entities\bin\Debug\netcoreapp3.1\MovieAppBackEnd.Entities.dll
+C:\Users\CEM\source\repos\MovieAppBackEnd\MovieAppBackEnd.Entities\bin\Debug\netcoreapp3.1\MovieAppBackEnd.Entities.pdb
+C:\Users\CEM\source\repos\MovieAppBackEnd\MovieAppBackEnd.Entities\bin\Debug\netcoreapp3.1\MovieAppBackEnd.Core.dll
+C:\Users\CEM\source\repos\MovieAppBackEnd\MovieAppBackEnd.Entities\bin\Debug\netcoreapp3.1\MovieAppBackEnd.Core.pdb
+C:\Users\CEM\source\repos\MovieAppBackEnd\MovieAppBackEnd.Entities\obj\Debug\netcoreapp3.1\MovieAppBackEnd.Entities.csprojAssemblyReference.cache
+C:\Users\CEM\source\repos\MovieAppBackEnd\MovieAppBackEnd.Entities\obj\Debug\netcoreapp3.1\MovieAppBackEnd.Entities.AssemblyInfoInputs.cache
+C:\Users\CEM\source\repos\MovieAppBackEnd\MovieAppBackEnd.Entities\obj\Debug\netcoreapp3.1\MovieAppBackEnd.Entities.AssemblyInfo.cs
+C:\Users\CEM\source\repos\MovieAppBackEnd\MovieAppBackEnd.Entities\obj\Debug\netcoreapp3.1\MovieAppBackEnd.Entities.csproj.CoreCompileInputs.cache
+C:\Users\CEM\source\repos\MovieAppBackEnd\MovieAppBackEnd.Entities\obj\Debug\netcoreapp3.1\MovieAppBackEnd.Entities.csproj.CopyComplete
+C:\Users\CEM\source\repos\MovieAppBackEnd\MovieAppBackEnd.Entities\obj\Debug\netcoreapp3.1\MovieAppBackEnd.Entities.dll
+C:\Users\CEM\source\repos\MovieAppBackEnd\MovieAppBackEnd.Entities\obj\Debug\netcoreapp3.1\MovieAppBackEnd.Entities.pdb

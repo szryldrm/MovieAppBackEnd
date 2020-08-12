@@ -1,0 +1,8 @@
+C:\Users\CEM\source\repos\MovieAppBackEnd\MovieAppBackEnd.Core\bin\Debug\netcoreapp3.1\MovieAppBackEnd.Core.deps.json
+C:\Users\CEM\source\repos\MovieAppBackEnd\MovieAppBackEnd.Core\bin\Debug\netcoreapp3.1\MovieAppBackEnd.Core.dll
+C:\Users\CEM\source\repos\MovieAppBackEnd\MovieAppBackEnd.Core\bin\Debug\netcoreapp3.1\MovieAppBackEnd.Core.pdb
+C:\Users\CEM\source\repos\MovieAppBackEnd\MovieAppBackEnd.Core\obj\Debug\netcoreapp3.1\MovieAppBackEnd.Core.AssemblyInfoInputs.cache
+C:\Users\CEM\source\repos\MovieAppBackEnd\MovieAppBackEnd.Core\obj\Debug\netcoreapp3.1\MovieAppBackEnd.Core.AssemblyInfo.cs
+C:\Users\CEM\source\repos\MovieAppBackEnd\MovieAppBackEnd.Core\obj\Debug\netcoreapp3.1\MovieAppBackEnd.Core.csproj.CoreCompileInputs.cache
+C:\Users\CEM\source\repos\MovieAppBackEnd\MovieAppBackEnd.Core\obj\Debug\netcoreapp3.1\MovieAppBackEnd.Core.dll
+C:\Users\CEM\source\repos\MovieAppBackEnd\MovieAppBackEnd.Core\obj\Debug\netcoreapp3.1\MovieAppBackEnd.Core.pdb

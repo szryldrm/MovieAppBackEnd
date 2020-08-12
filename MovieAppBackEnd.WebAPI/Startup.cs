@@ -25,7 +25,29 @@ namespace MovieAppBackEnd.WebAPI
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            //services.Configure<MongoDbSettings>(Configuration.GetSection("MongoDbSettings"));
+            //services.Configure<RedisSettings>(Configuration.GetSection("RedisSettings"));
+
+            //services.AddSingleton<IMongoDbSettings>(serviceProvider =>
+            //    serviceProvider.GetRequiredService<IOptions<MongoDbSettings>>().Value);
+            //services.AddSingleton<IRedisSettings>(serviceProvider =>
+            //    serviceProvider.GetRequiredService<IOptions<RedisSettings>>().Value);
+
+            //services.AddStackExchangeRedisCache(options =>
+            //{
+            //    options.Configuration = Configuration.GetSection("RedisSettings").GetSection("RedisHostIP").Value
+            //    + ":" + Configuration.GetSection("RedisSettings").GetSection("RedisPort").Value;
+            //});
+
             services.AddControllers();
+
+            //services.AddScoped<IMovieService, MovieManager>();
+            //services.AddScoped<IMovieDal, EfMovieDal>();
+
+            //services.AddDependencyResolvers(new ICoreModule[]
+            //{
+            //    new CoreModule(Configuration),
+            //});
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
