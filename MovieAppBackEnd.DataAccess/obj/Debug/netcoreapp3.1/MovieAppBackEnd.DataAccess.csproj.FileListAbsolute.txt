@@ -1,0 +1,17 @@
+C:\Users\CEM\source\repos\MovieAppBackEnd\MovieAppBackEnd.DataAccess\bin\Debug\netcoreapp3.1\MovieAppBackEnd.DataAccess.deps.json
+C:\Users\CEM\source\repos\MovieAppBackEnd\MovieAppBackEnd.DataAccess\bin\Debug\netcoreapp3.1\MovieAppBackEnd.DataAccess.runtimeconfig.json
+C:\Users\CEM\source\repos\MovieAppBackEnd\MovieAppBackEnd.DataAccess\bin\Debug\netcoreapp3.1\MovieAppBackEnd.DataAccess.runtimeconfig.dev.json
+C:\Users\CEM\source\repos\MovieAppBackEnd\MovieAppBackEnd.DataAccess\bin\Debug\netcoreapp3.1\MovieAppBackEnd.DataAccess.dll
+C:\Users\CEM\source\repos\MovieAppBackEnd\MovieAppBackEnd.DataAccess\bin\Debug\netcoreapp3.1\MovieAppBackEnd.DataAccess.pdb
+C:\Users\CEM\source\repos\MovieAppBackEnd\MovieAppBackEnd.DataAccess\bin\Debug\netcoreapp3.1\MovieAppBackEnd.Core.dll
+C:\Users\CEM\source\repos\MovieAppBackEnd\MovieAppBackEnd.DataAccess\bin\Debug\netcoreapp3.1\MovieAppBackEnd.Entities.dll
+C:\Users\CEM\source\repos\MovieAppBackEnd\MovieAppBackEnd.DataAccess\bin\Debug\netcoreapp3.1\MovieAppBackEnd.Entities.pdb
+C:\Users\CEM\source\repos\MovieAppBackEnd\MovieAppBackEnd.DataAccess\bin\Debug\netcoreapp3.1\MovieAppBackEnd.Core.pdb
+C:\Users\CEM\source\repos\MovieAppBackEnd\MovieAppBackEnd.DataAccess\obj\Debug\netcoreapp3.1\MovieAppBackEnd.DataAccess.csprojAssemblyReference.cache
+C:\Users\CEM\source\repos\MovieAppBackEnd\MovieAppBackEnd.DataAccess\obj\Debug\netcoreapp3.1\MovieAppBackEnd.DataAccess.AssemblyInfoInputs.cache
+C:\Users\CEM\source\repos\MovieAppBackEnd\MovieAppBackEnd.DataAccess\obj\Debug\netcoreapp3.1\MovieAppBackEnd.DataAccess.AssemblyInfo.cs
+C:\Users\CEM\source\repos\MovieAppBackEnd\MovieAppBackEnd.DataAccess\obj\Debug\netcoreapp3.1\MovieAppBackEnd.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\CEM\source\repos\MovieAppBackEnd\MovieAppBackEnd.DataAccess\obj\Debug\netcoreapp3.1\MovieAppBackEnd.DataAccess.csproj.CopyComplete
+C:\Users\CEM\source\repos\MovieAppBackEnd\MovieAppBackEnd.DataAccess\obj\Debug\netcoreapp3.1\MovieAppBackEnd.DataAccess.dll
+C:\Users\CEM\source\repos\MovieAppBackEnd\MovieAppBackEnd.DataAccess\obj\Debug\netcoreapp3.1\MovieAppBackEnd.DataAccess.pdb
+C:\Users\CEM\source\repos\MovieAppBackEnd\MovieAppBackEnd.DataAccess\obj\Debug\netcoreapp3.1\MovieAppBackEnd.DataAccess.genruntimeconfig.cache
