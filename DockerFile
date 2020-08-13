@@ -1,0 +1,16 @@
+FROM mcr.microsoft.com/dotnet/core/sdk:3.1 as build
+WORKDIR /app
+COPY ./MovieAppBackEnd.Core/*.csproj ./MovieAppBackEnd.Core/
+COPY ./MovieAppBackEnd.Entities/*.csproj ./MovieAppBackEnd.Entities/
+COPY ./MovieAppBackEnd.DataAccess/*.csproj ./MovieAppBackEnd.DataAccess/
+COPY ./MovieAppBackEnd.Business/*.csproj ./MovieAppBackEnd.Business/
+COPY ./MovieAppBackEnd.WebAPI/*.csproj ./MovieAppBackEnd.WebAPI/
+COPY *.sln .
+RUN dotnet restore
+COPY . .
+RUN dotnet publish ./MovieAppBackEnd.WebAPI/*.csproj -o /publish/
+FROM mcr.microsoft.com/dotnet/core/aspnet:3.1
+WORKDIR /app
+COPY --from=build /publish .
+ENV ASPNETCORE_URLS="http://*:6000"
+ENTRYPOINT [ "dotnet", "MovieAppBackEnd.WebAPI.dll" ]
