@@ -94,5 +94,8 @@ C:\Users\CEM\source\repos\MovieAppBackEnd\MovieAppBackEnd.WebAPI\bin\Debug\netco
 C:\Users\CEM\source\repos\MovieAppBackEnd\MovieAppBackEnd.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
 C:\Users\CEM\source\repos\MovieAppBackEnd\MovieAppBackEnd.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
 C:\Users\CEM\source\repos\MovieAppBackEnd\MovieAppBackEnd.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\CEM\source\repos\MovieAppBackEnd\MovieAppBackEnd.WebAPI\bin\Debug\netcoreapp3.1\connectionString.config
+C:\Users\CEM\source\repos\MovieAppBackEnd\MovieAppBackEnd.WebAPI\bin\Debug\netcoreapp3.1\Log4Mongo.dll
 C:\Users\CEM\source\repos\MovieAppBackEnd\MovieAppBackEnd.WebAPI\obj\Debug\netcoreapp3.1\MovieAppBackEnd.WebAPI.csproj.CoreCompileInputs.cache
 C:\Users\CEM\source\repos\MovieAppBackEnd\MovieAppBackEnd.WebAPI\obj\Debug\netcoreapp3.1\MovieAppBackEnd.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\CEM\source\repos\MovieAppBackEnd\MovieAppBackEnd.WebAPI\bin\Debug\netcoreapp3.1\Log\log.json
