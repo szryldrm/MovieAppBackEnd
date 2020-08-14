@@ -9161,7 +9161,7 @@
   },
   "packageFolders": {
     "C:\\Users\\CEM\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -9174,7 +9174,7 @@
       "outputPath": "C:\\Users\\CEM\\source\\repos\\MovieAppBackEnd\\MovieAppBackEnd.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet",
+        "C:\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [

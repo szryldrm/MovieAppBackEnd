@@ -14,7 +14,7 @@
         "outputPath": "C:\\Users\\CEM\\source\\repos\\MovieAppBackEnd\\MovieAppBackEnd.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet",
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
@@ -127,7 +127,7 @@
         "outputPath": "C:\\Users\\CEM\\source\\repos\\MovieAppBackEnd\\MovieAppBackEnd.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet",
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
