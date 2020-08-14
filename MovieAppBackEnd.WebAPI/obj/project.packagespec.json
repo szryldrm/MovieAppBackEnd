@@ -19,7 +19,11 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
-        "projectReferences": {}
+        "projectReferences": {
+          "C:\\Users\\CEM\\source\\repos\\MovieAppBackEnd\\MovieAppBackEnd.Business\\MovieAppBackEnd.Business.csproj": {
+            "projectPath": "C:\\Users\\CEM\\source\\repos\\MovieAppBackEnd\\MovieAppBackEnd.Business\\MovieAppBackEnd.Business.csproj"
+          }
+        }
       }
     },
     "warningProperties": {
@@ -35,6 +39,10 @@
           "target": "Package",
           "version": "[6.0.0, )"
         },
+        "MicroKnights.Log4NetAdoNetAppender": {
+          "target": "Package",
+          "version": "[2.2.0, )"
+        },
         "Microsoft.Extensions.Caching.StackExchangeRedis": {
           "target": "Package",
           "version": "[3.1.7, )"
@@ -46,6 +54,10 @@
         "Newtonsoft.Json": {
           "target": "Package",
           "version": "[12.0.3, )"
+        },
+        "log4mongo-netcore": {
+          "target": "Package",
+          "version": "[3.2.0, )"
         }
       },
       "imports": [
@@ -58,6 +70,20 @@
       ],
       "assetTargetFallback": true,
       "warn": true,
+      "downloadDependencies": [
+        {
+          "name": "Microsoft.AspNetCore.App.Ref",
+          "version": "[3.1.3, 3.1.3]"
+        },
+        {
+          "name": "Microsoft.NETCore.App.Ref",
+          "version": "[3.1.0, 3.1.0]"
+        },
+        {
+          "name": "Microsoft.WindowsDesktop.App.Ref",
+          "version": "[3.1.0, 3.1.0]"
+        }
+      ],
       "frameworkReferences": {
         "Microsoft.AspNetCore.App": {
           "privateAssets": "none"
@@ -66,7 +92,7 @@
           "privateAssets": "all"
         }
       },
-      "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+      "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
     }
   }
 }
